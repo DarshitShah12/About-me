@@ -1,1 +1,2 @@
 # About-me
+Aspiring data analyst with expertise in EDA using data visualization, Python, SQL, Pandas, NumPy, etc. Passionate about leveraging data engineering and machine learning skills to tackle complex challenges and drive actionable insights. Seeking a role to contribute to innovative projects in the dynamic field of data science, with a commitment to continuous learning and professional growth.
